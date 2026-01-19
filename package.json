@@ -1,0 +1,31 @@
+{
+  "name": "dscomponents",
+  "version": "1.0.0",
+  "description": "This project is going to be a 10/10 in the assignment intermodular project in SMR.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darwin27script/DsComponents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Darwin27script/DsComponents/issues"
+  },
+  "homepage": "https://github.com/Darwin27script/DsComponents#readme",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.1"
+  }
+}
