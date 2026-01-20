@@ -1,0 +1,21 @@
+:root {
+  --primary-blue: #6fa8dc;
+  --light-blue: #eaf2fb;
+  --medium-blue: #9fc5e8;
+  --dark-blue: #4a86c5;
+  --accent-blue: #b6d7f2;
+  --text-color: #2f3b4a;
+  --bg-color: #f7f9fc;
+}
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--dark-blue);
+}
+
+* {
+  box-sizing: border-box;
+}
