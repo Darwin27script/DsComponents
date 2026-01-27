@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Darwin27script/DsComponents#readme",
   "dependencies": {
+    "firebase": "^12.8.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
   },

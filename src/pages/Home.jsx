@@ -1,6 +1,7 @@
 function Home() {
     return (
       <div className="home">
+        <link rel="icon" href="/media/home-icon.png" />
         <header
           style={{
             backgroundColor: "var(--primary-blue)",

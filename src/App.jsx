@@ -1,4 +1,4 @@
-import Main from './pages/Home.jsx'
+import Main from './pages/Home.jsx';
 
 function App() {
   return (
@@ -8,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
